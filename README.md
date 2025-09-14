@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yuanjing</h1>
 <h3 align="center">A Master student of Computational Science, Proficient in Python and C/C++ with practical experience in developing efficient algorithms and data-driven applications. Seeking a backend developer graduate project to apply and expand on my skills in building scalable and performant systems.</h3>
 
-- 🌱 I’m currently learning **Go, Machine learning, Accelerator programming**
+- 🌱 I’m currently learning **AI, Machine learning, Accelerator programming**
 
 - 📫 How to reach me **Yuanjing.Yang@outlook.com**
 
