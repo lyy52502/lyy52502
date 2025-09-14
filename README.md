@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuanjing</h1>
-<h3 align="center">A Master student of Computational Science, Proficient in Python and C/C++ with practical experience in developing efficient algorithms and data-driven applications. Seeking a backend developer graduate project to apply and expand on my skills in building scalable and performant systems.</h3>
+<h3 align="center">I'm a Master of Computational Science student with a strong foundation in High-Performance Programming and AI/Machine Learning. Proficient in C/C++ and Python, with hands-on experience in building parallel systems, optimizing algorithms, and developing predictive models. Seeking a master thesis position in AI, Machine Learning, or Backend Development to leverage my expertise in solving complex computational problems and building robust software solutions.</h3>
 
 - 🌱 I’m currently learning **AI, Machine learning, Accelerator programming**
 
